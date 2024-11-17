@@ -1,8 +1,11 @@
 
-# JoJo0217
 
+# <center>Mingyu Jo </center>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoJo0217&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojo0217)
+ **<center> Tech stack</center>** 
+ 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoJo0217&show_icons=true&theme=radical)
 
 
 
