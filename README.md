@@ -1,8 +1,8 @@
 # Mingyu Jo
 
-Hello! I am currently an undergraduate student at Sungkyunkwan University.
+I am a Master's student at KAIST School of Computing.
 
-My interests include reinforcement learning and self-supervised learning. <br>I'm passionate about enabling computers to learn autonomously!
+My research interests include discrete diffusion language models and AGI.
 
 
 
